@@ -11,7 +11,7 @@
     </style>
 
     <!-- buttons -->
-    <style name="general_button" parent="Theme.SGH">
+    <style name="general_button" parent="Theme.SGHV1">
         <item name="background">@drawable/selector_general_button</item>
         <item name="paddingStart">@dimen/space_middle</item>
         <item name="paddingEnd">@dimen/space_middle</item>
@@ -22,12 +22,12 @@
 
     <!-- texto pequeño  -->
 
-    <style name="text_small" parent="Theme.SGH">
+    <style name="text_small" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_small</item>
         <item name="android:textColor">@color/md_grey_900</item>
     </style>
 
-    <style name="text_small_bold" parent="Theme.SGH">
+    <style name="text_small_bold" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_small</item>
         <item name="android:textColor">@color/md_grey_900</item>
         <item name="android:textStyle">bold</item>
@@ -43,12 +43,12 @@
 
     <!-- texto regular  -->
 
-    <style name="text_regular" parent="Theme.SGH">
+    <style name="text_regular" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_normal</item>
         <item name="android:textColor">@color/md_grey_900</item>
     </style>
 
-    <style name="text_regular_bold" parent="Theme.SGH">
+    <style name="text_regular_bold" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_normal</item>
         <item name="android:textColor">@color/md_grey_900</item>
         <item name="android:textStyle">bold</item>
@@ -64,12 +64,12 @@
 
     <!-- texto subTitulos  -->
 
-    <style name="text_subTitulos" parent="Theme.SGH">
+    <style name="text_subTitulos" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_middle</item>
         <item name="android:textColor">@color/md_grey_900</item>
     </style>
 
-    <style name="text_subTitulos_bold" parent="Theme.SGH">
+    <style name="text_subTitulos_bold" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_middle</item>
         <item name="android:textColor">@color/md_grey_900</item>
         <item name="android:textStyle">bold</item>
@@ -85,12 +85,12 @@
 
     <!-- texto Titulos  -->
 
-    <style name="text_Titulos" parent="Theme.SGH">
+    <style name="text_Titulos" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_large</item>
         <item name="android:textColor">@color/md_black_1000</item>
     </style>
 
-    <style name="text_Titulos_bold" parent="Theme.SGH">
+    <style name="text_Titulos_bold" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_large</item>
         <item name="android:textColor">@color/md_black_1000</item>
         <item name="android:textStyle">bold</item>
@@ -106,12 +106,12 @@
 
     <!-- texto Titulos Alerta -->
 
-    <style name="text_Titulos_Alerta" parent="Theme.SGH">
+    <style name="text_Titulos_Alerta" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_xxlarge</item>
         <item name="android:textColor">?attr/colorPrimary</item>
     </style>
 
-    <style name="text_Titulos_Alerta_bold" parent="Theme.SGH">
+    <style name="text_Titulos_Alerta_bold" parent="Theme.SGHV1">
         <item name="android:textSize">@dimen/font_size_xxlarge</item>
         <item name="android:textColor">?attr/colorPrimary</item>
         <item name="android:textStyle">bold</item>
